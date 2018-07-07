@@ -12,7 +12,7 @@ Install
 ==================
 
 ```{bash}
-git clone https://github.com/bsspirit/chat-websocket.git
+git clone https://github.com/HenryGX/chat-websocket.git
 cd chat-websocket
 npm install
 node app.js
